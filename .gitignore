@@ -1,0 +1,25 @@
+# Maven build output
+target/
+out/
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Environment files and secrets
+.env
+.env.*
+
+# Logs and JVM diagnostics
+*.log
+*.hprof
+
+# OS files
+.DS_Store
+Thumbs.db
